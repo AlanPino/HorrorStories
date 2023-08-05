@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529558260353",
+    "project_id": "horror-stories-de4b9",
+    "storage_bucket": "horror-stories-de4b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529558260353:android:39058217ef62a044a9db80",
+        "android_client_info": {
+          "package_name": "com.joeldev.horrorstories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529558260353-7ui9pmtko9g3ng2c9v2h9l7s4t0fbe3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbFDLmIs4hPPvnNm8g6vVv64lFzf8_JIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529558260353-7ui9pmtko9g3ng2c9v2h9l7s4t0fbe3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="100dp"
+    android:layout_height="150dp"
+    android:layout_marginTop="20dp"
+    android:layout_marginEnd="10dp"
+    android:elevation="8dp"
+    android:orientation="vertical"
+    app:cardBackgroundColor="@color/items"
+    app:contentPadding="5dp"
+    app:cardCornerRadius="5dp">
+
+    <TextView
+        android:id="@+id/titleBook"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="15sp"
+        tools:text="libro 1" />
+
+    <TextView
+        android:id="@+id/authorBook"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:textColor="@color/white"
+        android:textSize="10sp"
+        tools:text="Autor" />
+
+</androidx.cardview.widget.CardView>
